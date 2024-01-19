@@ -26,6 +26,7 @@ To run this notebook, you need to install Python and the following libraries:
  * Seaborn<br>
  * Matplotlib<br>
  * WordCloud<br>
+ 
 You can install these packages using pip:<br>
 
     pip install pandas numpy seaborn matplotlib wordcloud
