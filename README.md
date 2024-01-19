@@ -32,6 +32,7 @@ Visit [Google Takeout]( https://takeout.google.com/settings/takeout).<br>
 Select the data you want to download (YouTube history).<br>
 Follow the prompts to create an archive.<br>
 Once your archive is ready, download it and extract the JSON files.<br>
+Name your watch history file: watch_history31.json <br>
 Place the watch history JSON files in the same directory as this Jupyter notebook for analysis.<br>
 
 # Using YouTube API and OAuth Configuration
@@ -41,7 +42,7 @@ You'll need a client_secrets.json file for OAuth2 authentication.<br>
 Go to the [Google Cloud Console](https://console.cloud.google.com/).<br>
 Create a new project and enable the YouTube Data API v3 for it.<br>
 In the credentials section, set up OAuth consent screen, then create credentials for an OAuth 2.0 client ID.<br>
-Download the JSON file and rename it to client_secrets.json.<br>
+Download the JSON file and rename it to CLIENT_SECRET_FILE.json.<br>
 Place this file in the same directory as the Jupyter notebook.<br>
 
 # Example Documentation of 
