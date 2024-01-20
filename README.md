@@ -29,7 +29,9 @@ To run this notebook, you need to install Python and the following libraries:
  
 You can install these packages using pip:<br>
 
-    pip install pandas numpy seaborn matplotlib wordcloud
+    pip install pandas numpy seaborn matplotlib wordcloud  
+    pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client 
+    
 
 # Getting Your Data from Google Takeout
 To analyze your own data:
