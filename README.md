@@ -2,7 +2,7 @@
 Personal Data Analysis and Visualization with Youtube watch history and YouTube API
 
 # Description
-This project encompasses a detailed Jupyter notebook designed for in-depth analysis and visualization of personal data, primarily sourced from Google Takeout and the YouTube API v3. The notebook is structured to guide users through a series of analytical steps, each leveraging powerful Python libraries. Here is the project [REPORT](https://docs.google.com/document/d/1Wei8YfmKGutkdIL8uAl9iFQ-hewR6AzqTmxMVKyaFa4/edit?usp=sharing)
+This project encompasses a detailed Jupyter notebook designed for in-depth analysis and visualization of personal data, primarily sourced from Google Takeout and the YouTube API v3. The notebook is structured to guide users through a series of analytical steps, each leveraging powerful Python libraries.
 
 Key features of the project include:
 
@@ -53,8 +53,6 @@ To use the YouTube API:
  * Download the JSON file and rename it to CLIENT_SECRET_FILE.json.<br>
  * Place this file in the same directory as the Jupyter notebook.<br>
 
-# Example Documentation of 
-To demonstrate the capabilities of this notebook, I have prepared a [Example Usage Documentation](https://docs.google.com/document/d/1Wei8YfmKGutkdIL8uAl9iFQ-hewR6AzqTmxMVKyaFa4/edit?usp=sharing) of Report using my own data from Google Takeout and the YouTube API. Screenshots, showcasing the analysis and visualization process outcomes. It serves as a practical example to help users understand how the outcomes will be. Please note that the data in the document is my own and is used solely for demonstration purposes.
 
 # Usage
 To use this notebook, follow these steps:
